@@ -1,4 +1,6 @@
 1.handbrake(convert video formate)
 2.Drivermax(update drivers);
 3.Bandicut(split,merge video)
-4.
+4.OBS studio(screen recorder)
+5.ColorCop(screen color selector)
+6.Postman(http request analyser)
